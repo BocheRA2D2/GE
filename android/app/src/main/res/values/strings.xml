@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">GE</string>
+    <string name="title_activity_main">GE</string>
+    <string name="package_name">com.ge.app</string>
+    <string name="custom_url_scheme">com.ge.app</string>
+</resources>
